@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+/page1.html
+/page2.html
+/css2.css
+
+
+NETWORK:
+search.php
+login.php
+/api
+
+
+FALLBACK:
+
+/status.html
+/offline.html
